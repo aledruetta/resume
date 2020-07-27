@@ -1,13 +1,17 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Engenharia da Computação
+  uni: UNIVESP
+  year: 2017 &mdash; 2022
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Técnico em Informática
+  uni: ETEC, Centro Paula Souza
+  year: 2017
+  summary: Técnico em Informática com ênfase em programação Web.
+
+- degree: Nanodegree Front-End Web Development
+  uni: Udacity
+  year: 2017
+
+- degree: LPI Linux Essentials Certification
+  uni: Linux Professional Institute
+  year: 2017
